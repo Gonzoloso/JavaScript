@@ -1,6 +1,6 @@
 // LEt y var la diferencia es el alcance y como actuan
 document.write("<h1>Diferencias entre let y var</h1>");
-let var1 = "México";
+let var1 = "roma";
 let var2 = "Ámerica";
 
 //el uso de var la profundida es mayor y pued cambiar valores de variables local o sub fragmentos
